@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">UMich Math （CE maybe）</h3>
+<h3 align="center">UMich CE </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinquartet&label=Profile%20views&color=0e75b6&style=flat" alt="justinquartet" /> </p>
 
